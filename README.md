@@ -2,7 +2,7 @@
 
 ### An AWS based Dining Concierge Chatbot | Cloud Computing and Big Data Systems
 
-#### Contributers: Rajat Raghuwanshi (rrr9293) 
+#### Contributers: Rajat Raghuwanshi (rrr9293@nyu.edu) 
 
 ###### S3 BUCKET LINK FOR THE CHATBOT : http://clouddiningconierge.s3-website-us-west-2.amazonaws.com/ 
 
