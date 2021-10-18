@@ -25,6 +25,9 @@ Chatbot validates the responses from user and based on this conversation, the LE
 ***
 ***
 
+## WORKFLOW DIAGRAM 
+![alt text](https://github.com/rajat10cube/Dining-Concierge-using-AWS/blob/main/images/Assignment%201%20architecture%20diagram.png)
+
 ## Sample Use Case
 **Bot**: Hi there, I'm your personal Concierge. How can I help?
 
@@ -109,6 +112,5 @@ The Yelp Fusion API uses private key authentication to authenticate all endpoint
 
 ***
 
-## WORKFLOW DIAGRAM 
-![alt text](https://github.com/rajat10cube/Dining-Concierge-using-AWS/blob/main/images/Assignment%201%20architecture%20diagram.png)
+
 
